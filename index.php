@@ -4,7 +4,7 @@
 	<title>PRESENTATION GIT/GITHUB</title>
 </head>
 
-<body>
+<body style="background-color: red ">
 	<h1>TEST GIT</h1>
 	<?php
 	
